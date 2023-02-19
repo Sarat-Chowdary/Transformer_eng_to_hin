@@ -6,6 +6,7 @@
 * The model is hosted at hugging face spaces at - https://huggingface.co/spaces/sarat-chowdary/Translation-Eng-to-Hin 
 * The model performs reasonablly well and can be improved with more training epochs and hyperparameter tuning.
 * This implementation strips all punctuation which can give meaning to sentences in certain instances.
+* This shows itself in the translations displayed below.
 * Check out the following images to view the results
 
 
